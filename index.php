@@ -14,7 +14,7 @@
 <body>
     <header>
         <div>
-            <img src="./Front-end (5).png" alt="Logo Sabrina Menegassi">
+            <p>Sabrina</p>
         </div>
         <ul>
             <li>
